@@ -8,6 +8,7 @@ const alert1 = document.getElementById("alert1");
 const answer = document.getElementById("answer");
 let min,max,guessNumber,ranNumber,attempt = 0;
 
+
 submit1.onclick = function enterRange()
 {
     resetPlay();
